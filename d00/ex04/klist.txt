@@ -1,5 +1,0 @@
-Credentials cache: API:5338
-        Principal: jonascim@HIVE.FI
-
-  Issued                Expires               Principal
-Aug  8 18:47:51 2022  Aug  9 04:47:51 2022  krbtgt/HIVE.FI@HIVE.FI
